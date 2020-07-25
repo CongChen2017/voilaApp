@@ -87,7 +87,6 @@ dependencies:
   - hdf5=1.10.4
   - heapdict=1.0.1
   - html5lib=1.0.1
-  - icc_rt=2019.0.0
   - icu=58.2
   - idna=2.8
   - imageio=2.6.0
@@ -149,7 +148,6 @@ dependencies:
   - markupsafe=1.1.1
   - matplotlib=3.1.1
   - mccabe=0.6.1
-  - menuinst=1.4.16
   - mistune=0.8.4
   - mkl=2019.4
   - mkl-service=2.3.0
@@ -191,7 +189,6 @@ dependencies:
   - pkginfo=1.5.0.1
   - pluggy=0.13.0
   - ply=3.11
-  - powershell_shortcut=0.0.1
   - proj4=5.2.0
   - prometheus_client=0.7.1
   - prompt_toolkit=2.0.10
@@ -289,7 +286,6 @@ dependencies:
   - werkzeug=0.16.0
   - wheel=0.33.6
   - widgetsnbextension=3.5.1
-  - winpty=0.4.3
   - wrapt=1.11.2
   - xerces-c=3.2.2
   - xlrd=1.2.0
