@@ -94,7 +94,6 @@ dependencies:
   # - importlib_metadata=0.23
   # - intel-openmp=2019.4
   - ipydatawidgets=4.0.1
-  - codecs
   - ipykernel=5.1.2
   # - ipython=7.8.0
   - ipython_genutils=0.2.0
