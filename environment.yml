@@ -11,3 +11,4 @@ dependencies:
   - time
   - gensim
   - ipywidgets
+  - sklearn
